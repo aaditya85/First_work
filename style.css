@@ -1,0 +1,74 @@
+body{
+    background-color: lightcoral;
+}
+.page_wrapper{
+    width: 700px;
+    height: 800px;
+    background-color: white;
+    position: absolute;
+    border-radius: 7px;
+    margin-left: 400px;
+    box-shadow: 0 0 5px;
+
+}
+h1{
+position: relative;
+font-size: 30px;
+display: inline-block;
+padding: 10px;
+
+}
+nav{
+    display: inline-block;
+}
+#home{
+    display: inline-block;
+    margin-left: 300px;
+}
+#about{
+    display: inline-block;
+}
+#image{
+    width: 700px;
+}
+#main{
+display: inline-block;
+padding: 10px;
+}
+.firstblog{
+    display: inline-block;
+}
+h2{
+    color: blueviolet;
+}
+.usefulink{
+    width: 250px;
+    height: 150px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 25px;
+    position: absolute;
+    padding: 5px;
+}
+.sub_usefulink{
+ width: 220px;
+ height: 35px;
+ background-color: blueviolet;
+ position: absolute;
+ margin-top: 15px;
+ margin-left: 15px;
+ text-align: center;
+}
+h3{
+    margin-top: 10px;
+}
+#firstli{
+    margin-top: 70px;
+    font-size: x-large;
+}
+#secondli{
+font-size: x-large;
+}
+.secondblog{
+    padding: 10px;
+}
